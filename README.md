@@ -39,9 +39,9 @@ const nicholas = {
 <td width="50%">
 
 ### 🔥 **Current Projects**
-- 🌐 Building next-gen Web3 applications
-- 📱 Developing cross-platform Flutter apps
-- 🧠 Researching quantum algorithms
+- 🌐 Building next-gen Web3 applications and blockchain private network
+- 📱 Developing cross-platform Flutter apps & Deploy into play store and app store
+- 🧠 Researching intergation of blockchain into globe CCS project & post-quantum cryptography
 - 🤝 Open to exciting collaborations!
 
 ### 💡 **Learning Journey**
@@ -123,7 +123,7 @@ const nicholas = {
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niczrsoh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://github.com/users/niczrsoh/achievements/pull-shark" />
 </div>
 
 ---
