@@ -21,9 +21,6 @@
   <a href="https://www.linkedin.com/in/soh-zen-ren-08a0391bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://zrsoh.inspieretech.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" target="_blank" />
-  </a>
 </div>
 
 <hr>
