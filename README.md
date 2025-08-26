@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://zrsoh.inspieretech.com" target="_blank">
-    <img src="https://zrsoh.inspieretech.com/assets/images/image03.jpg?v=023521e6" style="width=100;height=100" target="_blank" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" target="_blank" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=niczrsoh&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Nicholas's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=niczrsoh&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nicholas's" />
+<!--   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=niczrsoh&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Nicholas's" /> -->
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=niczrsoh&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Nicholas's Most Used Languages" />
 </div>
 
