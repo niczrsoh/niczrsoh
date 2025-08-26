@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,C++,java,spring,ts,nodejs,react,nextjs,mongodb,postgres,mysql,nosql" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,solidity,spring,ts,nodejs,react,nextjs,mongodb,postgres,mysql,nosql" />
   <img src="https://skillicons.dev/icons?i=html,css,php,tailwind,js,vue,firebase,laravel,git,postman,figma,hostinger,Azure" />
 </p>
 
