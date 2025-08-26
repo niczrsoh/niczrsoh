@@ -123,7 +123,7 @@ const nicholas = {
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github.com/users/niczrsoh/achievements/pull-shark" />
+  <img src="[https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png](https://github.com/users/niczrsoh/achievements/pull-shark)"/>
 </div>
 
 ---
