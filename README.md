@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nicholas Soh!
+# 👋 Hey there, I'm Nicholas Soh Zen Ren!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=70&color=00D9FF&duration=3000&lines=Full-Stack+Software+Engineer+🚀;Blockchain+%26+AI+Researcher+🔬;Flutter+%26+Web3+Developer+💎;Open+for+Global+Collaborations+🌍" />
