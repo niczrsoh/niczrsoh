@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://zrsoh.inspieretech.com" target="_blank">
-    <img src="https://zrsoh.inspieretech.com/assets/images/image03.jpg?v=023521e6" target="_blank" />
+    <img src="https://zrsoh.inspieretech.com/assets/images/image03.jpg?v=023521e6" style="width=100;height=100" target="_blank" />
   </a>
 </div>
 
