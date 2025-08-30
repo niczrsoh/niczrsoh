@@ -84,7 +84,7 @@ const nicholas = {
 - 🤖 AI LLM API Integration  
 - 💰 e-Invoice Malaysia API Integration  
 - 💻 Desktop Applications  
-
+Feel free to contact me for any collaboration needed !
 </td>
 </tr>
 </table>
