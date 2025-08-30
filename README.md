@@ -19,12 +19,13 @@ const nicholas = {
     location: "🌏 Malaysia",
     currentFocus: ["Web3 Development", "Flutter Apps", "Quantum Computing"],
     skills: {
-        frontend: ["React", "Next.js", "Flutter", "Vue.js"],
+        frontend: ["React", "Next.js", "Flutter", "Vue.js"], 
         backend: ["Node.js", "Spring Boot", "Laravel"],
         blockchain: ["Solidity", "Smart Contracts", "DeFi"],
         databases: ["MongoDB", "PostgreSQL", "Firebase"],
         cloud: ["Azure", "Firebase", "Hostinger"]
     },
+    experiences: "5 years",
     currentlyLearning: ["Quantum Algorithms", "Advanced Flutter", "DeFi Protocols"],
     funFact: "I turn ☕ into code and ideas into reality!"
 };
@@ -66,7 +67,28 @@ const nicholas = {
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2">
+
+### 🛠️ **Self Experiences**
+- 📱 Social Media Mobile Apps (Full Stack)  
+- 👥 Community App *(Komunitiku – Live on Play Store & App Store)*  
+- 🏢 Corporate Websites  
+- 🏋️ Gym-specific Website  
+- 🔎 Blockchain Explorer Website  
+- ⛓️ Blockchain Ethereum Private Network  
+- 🎓 Blockchain Decentralised Certificate Web Application  
+- 📡 Blockchain Decentralised RFID Web Application  
+- 🛋️ AR Furniture E-commerce Mobile App  
+- 🤖 AI LLM API Integration  
+- 💰 e-Invoice Malaysia API Integration  
+- 💻 Desktop Applications  
+
+</td>
+</tr>
 </table>
+
 
 ---
 
