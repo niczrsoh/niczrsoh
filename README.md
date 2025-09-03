@@ -20,10 +20,14 @@ const nicholas = {
     currentFocus: ["Web3 Development", "Flutter Apps", "Quantum Computing"],
     skills: {
         frontend: ["React", "Next.js", "Flutter", "Vue.js"], 
-        backend: ["Node.js", "Spring Boot", "Laravel"],
-        blockchain: ["Solidity", "Smart Contracts", "DeFi"],
-        databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        cloud: ["Azure", "Firebase", "Hostinger"]
+        backend: ["Node.js", "Spring Boot", "Laravel", "Postman API"],
+        blockchain: ["Solidity", "Smart Contracts", "DeFi", "MetaMask"],
+        AI: ["python","LLM Integration"],
+        databases: ["MongoDB", "PostgreSQL", "Firebase", "MySQL", "NoSQL"],
+        cloud: ["Azure", "Firebase", "Hostinger"],
+        research: ["LaTeX"],
+        devOps: ["CodeMagic","Azure","GitHub Actions"],
+        thirdParties: ["Agora","Stripe","ZegoCloud","Bulk360","Twilio"]
     },
     experiences: "5 years",
     currentlyLearning: ["Quantum Algorithms", "Advanced Flutter", "DeFi Protocols"],
@@ -105,15 +109,17 @@ Feel free to contact me for any collaboration needed !
 
 ### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-6DB33F?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Blockchain & Web3**
+### **Blockchain & Web3 & AI**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![python](https://img.shields.io/badge/Python-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Tools & Cloud**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
