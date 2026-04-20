@@ -77,10 +77,12 @@ const nicholas = {
 
 ### 🛠️ **Self Experiences**
 - 📱 Social Media Mobile Apps (Full Stack)  
-- 👥 Community App *(Komunitiku – Live on Play Store & App Store)*  
+- 👥 Community App *(Komunitiku – Live on Play Store & App Store)*
+- 🥋 Martial Arts App *(Mapped – Live on Play Store &  Mapped InsideEU - App Store)*
+- 👥 Club Website *(1000advclub - Live on website https://www.1000advclub.org/)*
 - 🏢 Corporate Websites  
 - 🏋️ Gym-specific Website  
-- 🔎 Blockchain Explorer Website  
+- 🔎 Blockchain Explorer Website *(Live on website https://bchainexplorer.azurewebsites.net/#/dashboard/analysis)*   
 - ⛓️ Blockchain Ethereum Private Network  
 - 🎓 Blockchain Decentralised Certificate Web Application  
 - 📡 Blockchain Decentralised RFID Web Application  
@@ -88,7 +90,7 @@ const nicholas = {
 - 🤖 AI LLM API Integration  
 - 💰 e-Invoice Malaysia API Integration  
 - 💻 Desktop Applications  
-Feel free to contact me for any collaboration needed !
+Feel free to contact me for any collaboration needed!
 </td>
 </tr>
 </table>
