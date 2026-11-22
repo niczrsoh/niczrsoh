@@ -80,6 +80,7 @@ const nicholas = {
 - 👥 Community App *(Komunitiku – Live on Play Store & App Store)*
 - 🥋 Martial Arts App *(Mapped – Live on Play Store &  Mapped InsideEU - App Store)*
 - 👥 Club Website *(1000advclub - Live on website https://www.1000advclub.org/)*
+- 🏢 HR Payment Management Website
 - 🏢 Corporate Websites  
 - 🏋️ Gym-specific Website  
 - 🔎 Blockchain Explorer Website *(Live on website https://bchainexplorer.azurewebsites.net/#/dashboard/analysis)*   
